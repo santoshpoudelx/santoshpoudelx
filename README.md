@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Santosh Poudel - Full-Stack Developer" width="100%"/>
+<img src="./banner.svg" alt="Santosh Poudel - Full-Stack Developer" width="100%"/>
 
 <br/>
 
@@ -106,12 +106,17 @@ const santosh = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=santoshpoudelx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&icon_color=9b5de5&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshpoudelx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=santoshpoudelx&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F15BB5&currStreakLabel=00F5D4" alt="GitHub streak"/>
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santoshpoudelx&theme=transparent&title_color=ffffff&text_color=ffffff" alt="GitHub profile statistics"/>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <p><strong>Top languages</strong></p>
+      <img src="https://skillicons.dev/icons?i=ts,html,js,python,cpp&theme=dark" alt="Top languages: TypeScript, HTML, JavaScript, Python, and C++"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -121,7 +126,7 @@ const santosh = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshpoudelx&bg_color=0d1117&color=00f5d4&line=9b5de5&point=f15bb5&area=true&area_color=9b5de5&hide_border=true" alt="Contribution graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/santoshpoudelx/santoshpoudelx/output/contribution-candles.svg" alt="Candlestick-style chart of daily GitHub contributions over the last 31 days" width="100%"/>
 
 </div>
 
@@ -145,7 +150,10 @@ const santosh = {
 
 <div align="center">
 
-<img src="./assets/badges.svg" alt="Badges" width="100%"/>
+<a href="https://github.com/santoshpoudelx?tab=followers"><img src="https://img.shields.io/github/followers/santoshpoudelx?label=Followers&style=flat-square&logo=github&logoColor=white&labelColor=161b22&color=238636" alt="GitHub followers"/></a>
+<a href="https://github.com/santoshpoudelx?tab=repositories"><img src="https://img.shields.io/github/repos/santoshpoudelx?label=Public%20Repos&style=flat-square&logo=github&logoColor=white&labelColor=161b22&color=238636" alt="Public repositories"/></a>
+<a href="https://github.com/santoshpoudelx/santoshpoudelx"><img src="https://img.shields.io/github/stars/santoshpoudelx/santoshpoudelx?label=Repo%20Stars&style=flat-square&logo=github&logoColor=white&labelColor=161b22&color=238636" alt="Profile repository stars"/></a>
+<a href="https://github.com/santoshpoudelx/santoshpoudelx"><img src="https://img.shields.io/github/forks/santoshpoudelx/santoshpoudelx?label=Repo%20Forks&style=flat-square&logo=github&logoColor=white&labelColor=161b22&color=238636" alt="Profile repository forks"/></a>
 
 </div>
 
