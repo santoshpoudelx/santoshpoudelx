@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/santoshpoudelx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=720&height=50&lines=Hey+there%2C+I'm+Santosh+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+SaaS+products+that+scale;Crafting+Discord+bots+that+moderate+themselves;Exploring+Ethereum+%7C+Sui+%7C+Solana+%E2%9B%93%EF%B8%8F;Coding+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=720&height=50&lines=Hey+there%2C+I'm+Santosh+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+SaaS+products+that+scale;Crafting+Discord+bots+that+moderate+themselves;Exploring+Ethereum+%7C+Sui+%7C+Solana+%E2%9B%93%EF%B8%8F;Coding+from+Nepal" alt="Typing animation"/>
 </a>
 
 <br/>
@@ -126,7 +126,7 @@ const santosh = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/santoshpoudelx/santoshpoudelx/output/contribution-candles.svg" alt="Candlestick-style chart of daily GitHub contributions over the last 31 days" width="100%"/>
+<img src="./contribution-candles.svg" alt="Static candlestick-style chart of daily GitHub contributions over the last 31 days" width="1200" height="390"/>
 
 </div>
 
@@ -139,7 +139,7 @@ const santosh = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santoshpoudelx/santoshpoudelx/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santoshpoudelx/santoshpoudelx/output/github-snake.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/santoshpoudelx/santoshpoudelx/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/santoshpoudelx/santoshpoudelx/output/github-snake.svg" alt="Animated snake collecting cells on the real GitHub contribution calendar" width="100%"/>
 </picture>
 
 </div>
